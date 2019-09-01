@@ -1,7 +1,7 @@
-For Server
+# For Server
 	gcc -pthread -o server server.c
 	./server
 
-For Client
+# For Client
 	gcc -pthread -o client client.c
 	./client
